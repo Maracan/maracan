@@ -3,7 +3,7 @@
 
 
 
-# 💻 Chaoszentrale: <br>
+# 💻 Headquarter: <br>
 <img src="https://i.imgur.com/ZpMjAIK.jpg" width="512px"/>
 
 
