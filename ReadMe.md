@@ -2,6 +2,12 @@
 🌱 Level 30, male<br>🤝 nerd & tech enthusiast<br>🔭 currently working on my own page/portfolio <br>🤝 looking for help with java<br>🌱 still learning C# and WPF <br>⚡ gamer since 2006
 
 
+
+# 💻 Chaoszentrale: <br>
+<img src="https://i.imgur.com/ZpMjAIK.jpg" width="512px"/>
+
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/martin-portius) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/maracan_net) 
 
