@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Level 30, male<br>🤝 nerd & tech enthusiast<br>🔭 currently working on my own page/portfolio <br>🤝 looking for help with java<br>🌱 still learning C# and WPF <br>⚡ gamer since 2006
+🌱 Level 30, male<br>🤝 nerd & tech enthusiast<br>🔭 currently working on my own page/portfolio with .JS <br>🤝 looking for help with java<br>🌱 still learning C# and WPF <br>⚡ gamer since 2006
 
 
 
