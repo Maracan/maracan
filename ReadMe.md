@@ -4,7 +4,7 @@
 
 
 # 💻 Headquarter: <br>
-<img src="https://i.imgur.com/ZpMjAIK.jpg" width="512px"/>
+<img src="https://i.imgur.com/GUIP2X7.jpeg" width="512px"/>
 
 
 
