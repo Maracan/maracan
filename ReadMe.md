@@ -1,3 +1,6 @@
+#
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=350&size=18&pause=1000&color=DF3AF7&width=600&lines=Hi+stranger%2C+i'm+Maracan!;You+can+also+call+me+dreamer%2C+enthusiast+or+magician.;I+hope+you+find+what+you+need+on+my+githubpage.;Enjoy+the+stay+and+spread+love+and+magic!)](https://git.io/typing-svg)
+
 # 💫 About Me:
 🌱 Level 30, male<br>🤝 nerd & tech enthusiast<br>🔭 currently working on my own page/portfolio with .JS <br>🤝 looking for help with java<br>🌱 still learning C# and WPF <br>⚡ gamer since 2006
 
