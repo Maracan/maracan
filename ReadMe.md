@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
-🌱 Level 31, male<br>🤝 nerd & tech enthusiast<br>🔭 currently working on: project work for my it degree <br>🤝 celloon GmbH <br>🌱 leave a digital footprint, somehow <br>⚡ gamer since 2006
+🌱 Level 32, male<br>🤝 nerd & tech enthusiast<br>🔭 currently working on: project work for my it degree <br>🤝 celloon GmbH <br>🌱 leave a digital footprint, somehow <br>⚡ gamer since 2006
 
 # 💻 Headquarter: <br>
 
