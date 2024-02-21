@@ -5,7 +5,7 @@
 
 
 
-# 💻 Dreamforge & office:
+# 💻 Dreamforge & Office:
 
 ![Alt-Text](https://i.ibb.co/kGB7PnQ/20221208-112639.jpg)
 
