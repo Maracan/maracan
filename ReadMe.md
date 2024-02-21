@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=3000&pause=200&color=E000F7&multiline=true&random=false&width=700&height=100&lines=Welcome+to+my+GitHub+repository!+;Explore+the+code%2C++share+ideas%2C+and+let's+innovate+together.;Dive+into+the+projects%2C+contribute%2C+and+let's+build+something+amazing.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=5000&pause=500&color=E000F7&multiline=true&random=false&width=700&height=100&lines=Welcome+to+my+GitHub+repository!+;Explore+the+code%2C++share+ideas%2C+and+let's+innovate+together.;Dive+into+the+projects%2C+contribute%2C+and+let's+build+something+amazing.)](https://git.io/typing-svg)
 
 # 💫 About Me:
 🔭 I’m currently working on odin-401 <br>🤝 I’m looking for help with dns and server architecture<br>🌱 I’m currently learning vite / vue.js <br>💬 Ask me about anything<br>⚡ Fun fact - gamer since 2006<br>⚡ keyboard modding enthusiast
