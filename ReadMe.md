@@ -4,6 +4,11 @@
 🔭 I’m currently working on odin-401 <br>🤝 I’m looking for help with dns and server architecture<br>🌱 I’m currently learning vite / vue.js <br>💬 Ask me about anything<br>⚡ Fun fact - gamer since 2006<br>⚡ keyboard modding enthusiast
 
 
+
+# 💻 Dreamforge & office:
+
+![Alt-Text](https://i.ibb.co/kGB7PnQ/20221208-112639.jpg)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/em2pi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/martin-portius) 
 
